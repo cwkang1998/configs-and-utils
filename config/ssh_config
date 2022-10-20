@@ -1,0 +1,6 @@
+Host github.com
+  User cwkang1998
+  IdentityFile ~/.ssh/github
+Host gitlab.com
+  User cwkang1998
+  IdentityFile ~/.ssh/gitlab
